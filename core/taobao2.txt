@@ -1,0 +1,584 @@
+<!DOCTYPE html><!-- [ published at 2018-03-12 19:40:18 ] --><html lang="en"><head>
+    <meta charset="utf-8">
+	<title>新股_新浪财经_新浪网</title><meta name="keywords" content=""><meta name="description" content="">
+<link rel="mask-icon" sizes="any" href="http://www.sina.com.cn/favicon.svg" color="red">
+
+    <link rel="mask-icon" sizes="any" href="http://www.sina.com.cn/favicon.svg" color="red">
+    <link rel="stylesheet" href="//n3.sinaimg.cn/edu/c30320b4/20171121/style.css" type="text/css">
+    <link rel="stylesheet" href="http://tech.sina.com.cn/css/717/20140911/index2014/feed.1.1.7.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="http://news.sina.com.cn/css/87/20140926/comment.3.css">
+    <script id="sinaads-ck-script" charset="utf-8" src="//d3.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.js"></script><script id="sinaads-script" charset="utf-8" src="//d8.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js"></script><script language="javascript" type="text/javascript" src="http://i2.sinaimg.cn/cj/deco/2012/0713/financehead.js"></script>
+    <script type="text/javascript" src="http://i.sso.sina.com.cn/js/user_panel.js" charset="utf-8"></script>
+    <script src="http://news.sina.com.cn/268/2015/0112/jquery.newest.js" charset="utf-8"></script>
+    <!--<script>
+        var history_url = '';
+        var str_start_day ='2015-05-09';
+    </script>-->
+	<script> (function (d, s, id) { var s, n = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; s = d.createElement(s); s.id = id; s.setAttribute('charset', 'utf-8'); s.src = '//d' + Math.floor(0 + Math.random() * (9 - 0 + 1)) + '.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js'; n.parentNode.insertBefore(s, n); })(document, 'script', 'sinaads-script'); (sinaads = window.sinaads || []).push({})</script>
+ 
+<script charset="gb2312" src="//news.sina.com.cn/js/694/2012/0830/realtime.js?ver=1.5.1"></script><style type="text/css">.tn-title-login-custom{float:left!important;font-family: "Microsoft YaHei","微软雅黑","SimSun","宋体"!important;position:relative!important;}
+.tn-title-login-custom .tn-user-custom{float:left!important;font-size:12px!important;}
+.tn-title-login-custom .tn-user-greet{float:left!important;height:17px!important;padding:12px 0!important;width:51px!important; line-height:17px!important;overflow:hidden!important;}
+.tn-title-login-custom .tn-tab-custom{position:relative!important;float:left!important;border-width:0 1px!important;border-style:solid!important;width:85px!important;height:17px!important;padding:12px 0!important;_padding:14px 0 10px!important;text-align:center!important;font-style:normal!important;text-decoration:none!important; vertical-align:top!important;}
+.tn-title-login-custom .tn-tab-custom-login{width:57px!important;_float:left;}
+.tn-title-login-custom .tn-tab-custom i{font-style:normal!important;}
+.tn-title-login-custom .tn-tab-custom:hover{text-decoration:none!important;}
+.tn-title-login-custom .tn-tab-custom .tn-new-custom{display:none;position:absolute!important;right:2px!important;margin-top:-10px!important;height:11px!important;width:13px!important;padding-left:3px!important;font-size:8px!important;overflow:hidden!important;line-height:10px!important;text-align:center!important;-webkit-text-size-adjust:none!important;font-style:normal!important;}
+.tn-title-login-custom .tn-tab-custom .tn-arrow-custom{display: inline-block!important;font-size: 12px!important;height: 5px!important;line-height: 13px!important;margin: 0 0 0 5px!important;overflow: hidden!important;transform: none!important;vertical-align: middle!important;width:9px!important;font-style:normal!important;}
+.tn-title-login-custom .tn-topmenulist-custom{position:absolute!important;right:0!important;top:41px!important;border-width:1px 1px 0!important;border-style:solid!important;width:85px!important;overflow:hidden!important;}
+.tn-title-login-custom .tn-topmenulist-custom .tn-text-list{margin-bottom:-2px!important;margin:0!important;padding:0!important;}
+.tn-title-login-custom .tn-topmenulist-custom li{border-bottom-width:1px!important;border-bottom-style:solid!important;line-height:31px!important; list-style:none!important;margin:0!important;padding:0!important;}
+.tn-title-login-custom .tn-topmenulist-custom a{display:block!important;padding:0 15px!important;text-decoration:none!important;text-align:left!important;}
+.tn-title-login-custom .tn-topmenulist-custom a em{float:right!important;font-style:normal!important;}
+.tn-title-login-custom .tn-topmenulist-custom a:hover{text-decoration:none!important;}
+.tn-title-login-custom .tn-topmenulist-custom a.tn-user-custom-logout{background:#f2f2f2!important;color:#0a8cd2!important;}
+.tn-title-login-custom .tn-topmenulist-custom a.tn-user-custom-logout:hover{text-decoration:underline!important;}
+/*可覆盖样式区域*/
+.tn-title-login-custom .tn-user-custom{background:#f7f7f7;}
+.tn-title-login-custom .tn-tab-custom{border-color:#f7f7f7;color:#ff8601;}
+.tn-title-login-custom .tn-tab-custom:hover,
+.tn-title-login-custom .tn-tab-custom-onmouse{background:#eaeaea;border-color:#ff8503;color:#ff8601;}
+.tn-title-login-custom .tn-tab-custom .tn-new-custom{background:url(http://i.sso.sina.com.cn/images/login/icon_custom.png) no-repeat 0 -30px;color:#fff;text-align:center;-webkit-text-size-adjust: none;}
+.tn-title-login-custom .tn-tab-custom .tn-arrow-custom{ background:url(http://i.sso.sina.com.cn/images/login/icon_custom.png) no-repeat scroll 0 0 transparent; }
+.tn-title-login-custom .tn-topmenulist-custom{border-color:#ff8601;background:#fff;}
+.tn-title-login-custom .tn-topmenulist-custom li{border-bottom-color:#ff8601;}
+.tn-title-login-custom .tn-topmenulist-custom a{color:#000;}
+.tn-title-login-custom .tn-topmenulist-custom a em{color:#ff8603;}
+.tn-title-login-custom .tn-topmenulist-custom a:hover{background:#fff6d9;color:#ff8601;}</style><script src="http://s.weibo.com/ajax/jsonp/suggestion?Refer=sina_sug&amp;&amp;_t1520855182843_72747051&amp;_cb=jsonp_1520855182843_70730786" id="http://s.weibo.com/ajax/jsonp/suggestion?Refer=sina_sug&amp;&amp;_t1520855182843_72747051&amp;_cb=jsonp_1520855182843_70730786" type="text/javascript"></script><script charset="UTF-8" id="scriptRequest_script_15208551827751" type="text/javascript" src="https://i.sso.sina.com.cn/js/qrcode_login.js"></script><style type="text/css">.outlogin_layerbox_bylx,
+.outlogin_layerbox_bylx p,
+.outlogin_layerbox_bylx div,
+.outlogin_layerbox_bylx li,
+.outlogin_layerbox_bylx input{font: 12px/1.125 "Simsun", "Arial Narrow", "HELVETICA"!important;}
+.outlogin_layerbox_bylx{width:292px!important;position:absolute;border-width:1px!important;border-style:solid!important;text-align:left!important;z-index:1000;overflow:visible!important;}
+.outlogin_layerbox_bylx .cur_move{position:relative!important;width:477px!important;height:17px!important;cursor:move;left:0!important;clear:both!important;overflow:visible!important;}
+.outlogin_layerbox_bylx a.layerbox_close{position:absolute!important;right:8px!important;top:8px!important;width:12px!important;height:11px!important;padding:5px!important;font:700 12px "Simsun"!important;text-decoration:none!important;overflow:hidden!important;z-index:10!important;}
+.outlogin_layerbox_bylx .close_loginname{position:absolute!important;width:11px!important;height:11px!important;padding:5px!important;left:182px!important;top:4px!important;font:700 12px "Simsun"!important;text-decoration:none!important;overflow:hidden!important;background:#fff;}
+.outlogin_layerbox_bylx a.layerbox_close:hover{text-decoration:none!important;}
+.outlogin_layerbox_bylx .layerbox_left{width:259px!important;display:inline!important;float:right!important;margin-top:-17px!important;height:260px;padding:17px 0 17px 30px!important;border-right-width:1px!important;border-right-style:solid!important;}
+.outlogin_layerbox_bylx .layerbox_left .titletips{padding:8px 0 35px!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist{list-style:none!important;padding:0!important;margin:0!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist li{width:260px!important; clear:both!important; padding-bottom:12px!important;*padding-bottom:11px!important; vertical-align:top;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist .sub_wrap_r{height:20px!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist .ndrelativewrap{position:relative!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist li .btn_wrap{float:left!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist li input.styles{margin:0!important;border-style:solid!important;border-width:1px!important;width: 178px!important;height:14px!important;padding:6px 20px 7px 4px!important;outline-style:none!important;vertical-align:middle!important;overflow:hidden!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist li input.styles::-ms-clear{display:none!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist input.styles:focus::-webkit-input-placeholder {color:transparent!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist input.styles:focus::-moz-placeholder {color:transparent!important;}
+.outlogin_layerbox_bylx .layerbox_left .pre_name{display:block!important;;padding-top:50px!important;width:205px!important;; white-space:nowrap!important;text-overflow:ellipsis!important;overflow:hidden!important;font-size:18px!important;height:25px!important;}
+.outlogin_layerbox_bylx .layerbox_left .chg_ac{display:block!important;height:16px!important;font-size:14px!important;text-decoration:none!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist li.loginform_yzm{height:28px!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist li.loginform_yzm input.styles{width:90px!important; float:left!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist li.loginform_yzm .disability_voice{display:inline-block;
+width:35px;height:29px;vertical-align:middle!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist li.loginform_yzm img.yzm{float:left!important;margin-left:12px!important;height:28px!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist li.loginform_yzm .reload-code{float:left!important;margin:7px 0 0 5px!important;width:24px!important;height:18px!important;cursor:pointer!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist a.login_btn{float:left!important;margin-right:6px!important;padding:7px 18px!important;text-decoration:none!important;font-size:14px!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist a.register_lnk{text-decoration:none;vertical-align:middle;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist a.register_lnk:hover{text-decoration:underline; }
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist .auto_checkbox{vertical-align:-2px!important;_vertical-align:-1px!important;margin:0 5px 0 0!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist label{margin:0 0 0 0!important;vertical-align:middle!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist a.forget_Pwd{margin-right:10px!important;text-decoration:none!important;vertical-align:middle!important;_vertical-align:-1px!important;}
+.outlogin_layerbox_bylx .layerbox_left .log_option{float:left!important;padding:7px 20px 0 0!important;*padding-top:12px!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist a.forget_Pwd:hover{text-decoration:underline!important;}
+.outlogin_layerbox_bylx .association{position:absolute!important;left:30px;top:94px;margin:0;border-width:1px!important;border-style:solid!important;width:230px;overflow:hidden!important;padding:0;clear:both!important;}
+.outlogin_layerbox_bylx .association li{margin:0 1px!important;padding:3px!important;line-height:1.2!important;list-style:none!important;white-space:nowrap!important;}
+.outlogin_layerbox_bylx .association li.note_item{margin:4px!important;padding:0!important;}
+.outlogin_layerbox_bylx .association li a{display:block!important;text-decoration:none!important;}
+.outlogin_layerbox_bylx .login_error_tips{position:absolute; top:42px; left:215px; z-index:10;margin:0 0 10px 0!important;width:225px!important;padding:5px!important;}
+.outlogin_layerbox_bylx .login_recom_tips{position:absolute; top:42px; left:215px; z-index:10; border:1px #797979 solid; background:#ffffcc; margin:0 0 10px 0!important;padding:5px; white-space:nowrap;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist li .rmb_login{float:left;padding:8px 0 0 10px;}
+.outlogin_LoginBtn:hover{text-decoration:underline!important;}
+.outlogin_LoginBtn .LoginIcon{display:inline-block!important;height:15px!important;width:16px!important;vertical-align:middle!important;}
+.outlogin_LoginBtn .LoginTx{vertical-align:middle!important;padding-left:5px!important;cursor:pointer!important;}
+.outlogin_layerbox_bylx .otwo_d_wrap{width:185px!important;height:260px!important;_width:182px!important;}
+.outlogin_layerbox_bylx .otwo_d_wrap .otwo_tl{height:40px!important;padding:8px 0 0 26px!important;}
+.outlogin_layerbox_bylx .otwo_d_wrap .td_wrap{border-right:1px solid #ededed!important;height:128px!important;padding-right:30px!important;text-align:right!important;overflow:visible!important;}
+.outlogin_layerbox_bylx .otwo_d_wrap .td_wrap img{border:none!important;display:inline!important;}
+.outlogin_layerbox_bylx .otwo_d_wrap .thumb{float:right;;border:2px solid #dfdfdf;-webkit-border-radius:60px;-moz-border-radius:60px;border-radius:60px;width:120px;height:120px;overflow:hidden; box-shadow:0 0 2px 3px hsla(0,0%,20%,.05)}
+.outlogin_layerbox_bylx .otwo_d_wrap .thumb img{width:120px;height:120px;-webkit-border-radius:60px;-moz-border-radius:60px;border-radius:60px;}
+.outlogin_layerbox_bylx .otwo_hlp{position:absolute!important;left:175px!important;top:59px!important;width:229px!important;height:329px!important;background:#ebebeb!important;background:hsla(0,0%,0%,.08)!important;z-index:16!important;}
+.outlogin_layerbox_bylx .otwo_hlp .hlp_cnt{margin:3px!important;border:1px solid #dadada!important;height:310px!important;padding:10px 0 0 0px!important;background:#fff;!important}
+.outlogin_layerbox_bylx .otwo_hlp .otwo_hlp_tl{height:23px!important;line-height:1!important;}
+.outlogin_layerbox_bylx .otwo_hlp .ot_arrow{position:absolute!important;top:68px!important;left:-7px!important;width:11px!important;height:16px!important;background:url(https://i.sso.sina.com.cn/images/login/arrow.png) no-repeat 0 0!important;}
+.outlogin_layerbox_bylx .swip_check{position:absolute!important;left:10px!important;top:25px!important;border:1px solid #ccc!important;width:204px!important;height:46px!important;background:#fffae1!important; box-shadow:0 0 3px hsla(0,0%,0%,.2)!important; border-radius:3px!important;}
+.outlogin_layerbox_bylx .swip_check_cls,
+.outlogin_layerbox_bylx .swip_check_icon,
+.outlogin_layerbox_bylx .swip_check_btmarow{background-image:url(https://i.sso.sina.com.cn/images/login/swip_icon.gif)!important;background-repeat:no-repeat!important;overflow:hidden!important;}
+.outlogin_layerbox_bylx .swip_check_cls{float:right!important;display:inline!important;margin:9px!important;width:10px!important;height:10px!important;background-position:1px -27px!important;}
+.outlogin_layerbox_bylx .swip_check_icon{float:left!important;margin:5px!important;width:15px!important;height:15px!important;background-position:0 -8px!important; }
+.outlogin_layerbox_bylx .swip_check_txt{ margin:4px 0 0!important;overflow:hidden!important;line-height:18px!important;}
+.swip_check_btmarow{position:absolute!important;bottom:-6px!important;left:50%!important;margin-left:-3px!important;width:10px!important;height:6px!important;background-position:0 0!important;}
+.outlogin_layerbox_bylx{width:477px!important;border-color:#ffc525;color:#434242;box-shadow:4px 4px 0 rgba(0,0,0,.1);background-color:#fff;}
+.outlogin_layerbox_bylx a.layerbox_close{color:#666;}
+.outlogin_layerbox_bylx a.layerbox_close:hover{color:#3f7bc1;}
+.outlogin_layerbox_bylx .close_loginname{color:#666;}
+.outlogin_layerbox_bylx .close_loginname:hover{color:#DA0000;}
+.outlogin_layerbox_bylx .layerbox_left{border-right-color:#fff;background:#fff;}
+.outlogin_layerbox_bylx .layerbox_left input.styles{border-color:#d0d0d0;background:#FFF;}
+.outlogin_layerbox_bylx .layerbox_left .disability_voice{background:url(https://i.sso.sina.com.cn/images/login/voice.gif) no-repeat 50% 50%;}
+.outlogin_layerbox_bylx .layerbox_left a.login_btn{background:#ff8500;color:#fff;}
+.outlogin_layerbox_bylx .layerbox_left a.login_btn:hover{background:#ff931d;}
+.outlogin_layerbox_bylx .layerbox_left a.register_lnk{color:#a87a2c;}
+.outlogin_layerbox_bylx .layerbox_left a.login_lnk:hover{color:#a87a2c;}
+.outlogin_layerbox_bylx .layerbox_left a.forget_Pwd{color:#a87a2c;}
+.outlogin_layerbox_bylx .association{border-color:#ddd;background:#fff;}
+.outlogin_layerbox_bylx .association .note_item{color:#999;}
+.outlogin_layerbox_bylx .association a{color:#999;}
+.outlogin_layerbox_bylx .association .current{background:#f4f5f7;}
+.outlogin_layerbox_bylx .login_error_tips{color:#DA0000; }
+.outlogin_layerbox_bylx .login_recom_tips{color:#000; }
+.outlogin_LoginBtn .LoginIcon{background:url(https://i.sso.sina.com.cn/images/login/loginButton_16a.png) no-repeat 0 0;}
+.outlogin_layerbox_bylx li.loginform_yzm .reload-code{background:url(https://i.sso.sina.com.cn/images/login/verify_refresh.png) no-repeat 0 0;}
+.outlogin_layerbox_bylx li.loginform_yzm .reload-code:hover{background-position:0 -18px;}
+.outlogin_layerbox_bylx .chg_ac{color:#ff8500;}
+.outlogin_layerbox_bylx .layerbox_left .qq_spanoption{float:left!important;padding:8px 20px 0 0!important;*padding-top:8px!important;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist li span a.qq_login_h{margin-right:10px!important;text-decoration:none;vertical-align:middle!important;_vertical-align:-1px!important;color:#000;}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist li span a.qq_login_h:hover{color:#ff8500;text-decoration:underline !important}
+.outlogin_layerbox_bylx .layerbox_left ul.loginformlist li span a span.qq_login_logo {display: inline-block;width: 16px;height: 16px;margin-right: 5px;background-image: url(https://i.sso.sina.com.cn/images/login/qq.png);background-repeat: no-repeat;vertical-align: middle;}</style><link charset="utf-8" rel="stylesheet" media="screen" type="text/css" id="15208551827752" href="http://i.sso.sina.com.cn/css/outlogin/v1/outlogin_skin_finance.css"><style type="text/css">.real-time-window .rtw2-lt,.real-time-window .rtw2-close,.real-time-window .rtw2-close-btn,.real-time-window .rtw2-lt-sina{background:url(//n.sinaimg.cn/default/7919a7ba/20160621/realtime.png) 0 0 no-repeat}.real-time-window{z-index:60000;display:block;height:46px;line-height:46px;overflow:hidden;zoom:1;font-family:"Microsoft YaHei","微软雅黑","SimHei","黑体"!important}.real-time-window .rtw2-in{height:46px;line-height:46px;overflow:hidden}.real-time-window .rtw2-lt{display:inline;float:left;width:82px;height:46px;background-color:#f9f5ec;zoom:1}.real-time-window .rtw2-md{display:inline;float:left;background:#f9f5ec;height:44px;line-height:44px;padding-right:5px;zoom:1;border-top:1px solid #f6e3c9;border-bottom:1px solid #f6e3c9}.real-time-window .rtw2-md-title{display:inline-block;height:44px;line-height:44px;padding:0 7px;font-size:16px}.real-time-window .rtw2-md-title:link{color:#122E67!important;text-decoration:none!important}.real-time-window .rtw2-md-title:hover{color:#ff8400!important;text-decoration:underline!important}.real-time-window .rtw2-md-title:visited{color:#52687e!important;text-decoration:none!important}.real-time-window .rtw2-close{display:inline;width:76px;height:48px;float:left;background-position:-82px 0;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale,src="http://n.sinaimg.cn/default/7919a7ba/20160621/realtime_right.png");_background:none;zoom:1;position:relative}.real-time-window .rtw2-close-btn{position:absolute;right:2px;top:10px;width:26px;height:25px;display:block;background-position:-88px -47px}.real-time-window .rtw2-close-btn:hover{filter:alpha(opacity=80);opacity:0.8}.real-time-window .rtw2-lt-sina{width:36px;height:36px;display:block;text-indent:-9999px;background-position:2px -46px}.real-time-window .rtw2-lt-sina:hover{background-position:-35px -46px}.real-time-window .rtw2-close-more{padding-left:9px}.real-time-window .rtw2-close-more:link{font-size:14px!important;line-height:46px;color:#866755;text-decoration:none!important}.real-time-window .rtw2-close-more:visited{color:#866755!important;text-decoration:none!important}.real-time-window .rtw2-close-more:hover{color:#e01700!important;text-decoration:underline!important}</style><iframe src="http://beacon.sina.com.cn/ckctl.html" id="ckctlFrame" scrolling="no" style="height: 0px; width: 1px; overflow: hidden;"></iframe><script src="http://bdimg.share.baidu.com/static/js/logger.js?cdnversion=422460"></script><style type="text/css">.ui-outlogin-shake {-ms-animation:outlogin-layer-shake 600ms;}
+@-webkit-keyframes outlogin-layer-shake {
+0% {-webkit-transform:translateX(0px);-webkit-animation-timing-function:ease-out;}
+10% {-webkit-transform:translateX(-16px);-webkit-animation-timing-function:ease-in;}
+20% {-webkit-transform:translateX(0px);-webkit-animation-timing-function:ease-out;}
+30% {-webkit-transform:translateX(8px);-webkit-animation-timing-function:ease-in;}
+40% {-webkit-transform:translateX(0px);-webkit-animation-timing-function:ease-out;}
+50% {-webkit-transform:translateX(-4px);-webkit-animation-timing-function:ease-in;}
+60% {-webkit-transform:translateX(0px);-webkit-animation-timing-function:ease-out;}
+70% {-webkit-transform:translateX(2px);-webkit-animation-timing-function:ease-in;}
+80% {-webkit-transform:translateX(0px);-webkit-animation-timing-function:ease-out;}
+90% {-webkit-transform:translateX(-1px);-webkit-animation-timing-function:ease-in;}
+100% {-webkit-transform:translateX(0px);-webkit-animation-timing-function:ease-out;}
+}
+</style><link href="http://bdimg.share.baidu.com/static/css/bdsstyle.css?cdnversion=20131219" rel="stylesheet" type="text/css"></head>
+
+<body class=" sinacMNT_logout"><div id="sinaadToolkitBox1" class="sinaads-float sinaads-float-right" style="position: absolute; width: 120px; height: 288px; z-index: 10500; display: block; left: 700px; top: 100px;"><div style="width: 120px; height: 270px; position: absolute; left: 0px; top: 0px;"><a style="display:block;line-height:0;" href="http://saxn.sina.com.cn/dsp/click?t=MjAxOC0wMy0xMiAxOTo0NjoyNC4zNTIJMTIxLjU4LjIzNC4yMTAJCWM5Yjk2MjMxLWVhZjYtNDRmNS05Y2U5LTcwZDY4ZDE4YzAxYgkzMjIyODA5CTU4MjU5ODg5NDFfUElOUEFJLUNQQwkzMTA0MDg1CTEyMzE1NwkwLjAwMjA1MDU0NTUJMQl0cnVlCVBEUFMwMDAwMDAwNTg2MzgJMzQ3MjY5NQlQQwlpbWFnZQktCTB8cWpOdHJqUkRXaEdRSDN6Z1FqQ25MfG51bGx8bnVsbHxianwzMjIyODA5fDZvaVQ4UkhJTndFMGk0eFhOc0dYOXB8MAludWxsCTEJLQktCS0JMAkJUENfSU1BR0UJLQlub3JtYWx8dXZmbXJ0LW5vY21ycAktCXVzZXJfdGFnOjIwNjM0OjAuMHx1c2VyX2FnZTo2MDQ6MC4xNTY1OHx1c2VyX2dlbmRlcjo1MDI6MC4zODkyMXx2X3pvbmU6Nzc3MjUwOjAuMHxjcm93ZHM6fF9jcm93ZHM6CTQJMTMxMDAwCTUwMDAwCS0=&amp;userid=121.58.234.210&amp;auth=f7518e85d3fc9031&amp;p=TDivwpRsNGSph3TAhymkumr1I4JhSsy4itWveA%3D%3D&amp;url=http%3A%2F%2Fsax.sina.com.cn%2Fclick%3Ftype%3D2%26t%3DNGMzOGFmYzItOTQ2Yy0zNDY0LWE5ODctNzRjMDg3MjlhNGJhCTE3CVBEUFMwMDAwMDAwNTg2MzgJMzQ3MjY5NQkxCVJUQgktCQk%253D%26id%3D17%26url%3Dhttp%253A%252F%252Fymrtzkg.com%252Fyumeiren5%252Fpc%26sina_sign%3Dd67d29bef2864268&amp;sign=2fc7f056c4e0cebd" target="_blank" data-link="http://saxn.sina.com.cn/dsp/click?t=MjAxOC0wMy0xMiAxOTo0NjoyNC4zNTIJMTIxLjU4LjIzNC4yMTAJCWM5Yjk2MjMxLWVhZjYtNDRmNS05Y2U5LTcwZDY4ZDE4YzAxYgkzMjIyODA5CTU4MjU5ODg5NDFfUElOUEFJLUNQQwkzMTA0MDg1CTEyMzE1NwkwLjAwMjA1MDU0NTUJMQl0cnVlCVBEUFMwMDAwMDAwNTg2MzgJMzQ3MjY5NQlQQwlpbWFnZQktCTB8cWpOdHJqUkRXaEdRSDN6Z1FqQ25MfG51bGx8bnVsbHxianwzMjIyODA5fDZvaVQ4UkhJTndFMGk0eFhOc0dYOXB8MAludWxsCTEJLQktCS0JMAkJUENfSU1BR0UJLQlub3JtYWx8dXZmbXJ0LW5vY21ycAktCXVzZXJfdGFnOjIwNjM0OjAuMHx1c2VyX2FnZTo2MDQ6MC4xNTY1OHx1c2VyX2dlbmRlcjo1MDI6MC4zODkyMXx2X3pvbmU6Nzc3MjUwOjAuMHxjcm93ZHM6fF9jcm93ZHM6CTQJMTMxMDAwCTUwMDAwCS0=&amp;userid=121.58.234.210&amp;auth=f7518e85d3fc9031&amp;p=TDivwpRsNGSph3TAhymkumr1I4JhSsy4itWveA%3D%3D&amp;url=http%3A%2F%2Fsax.sina.com.cn%2Fclick%3Ftype%3D2%26t%3DNGMzOGFmYzItOTQ2Yy0zNDY0LWE5ODctNzRjMDg3MjlhNGJhCTE3CVBEUFMwMDAwMDAwNTg2MzgJMzQ3MjY5NQkxCVJUQgktCQk%253D%26id%3D17%26url%3Dhttp%253A%252F%252Fymrtzkg.com%252Fyumeiren5%252Fpc%26sina_sign%3Dd67d29bef2864268&amp;sign=2fc7f056c4e0cebd" onmousedown="return sinaadToolkit.url.fortp(this, event);"><img border="0" src="//s3.pfp.sina.net/ea/ad/15/1/0df2a9f7fbb79ef1fb3b6ca9f2dd2441.jpg" style="width:120px;height:270px;border:0" alt="广告"></a></div><div class="sinaads-float-close" style="width: 120px; height: 18px; position: absolute; left: 0px; top: 270px; background-image: url(http://d2.sina.com.cn/litong/zhitou/sinaads/60x18_1_close.gif); background-color: rgb(235, 235, 235); cursor: pointer; background-position: 0% 50%; background-repeat: no-repeat no-repeat;"></div></div><div id="sinaadToolkitBox0" class="sinaads-float sinaads-float-left" style="position: absolute; width: 120px; height: 288px; z-index: 10500; display: block; left: -420px; top: 100px;"><div style="width: 120px; height: 270px; position: absolute; left: 0px; top: 0px;"><a style="display:block;line-height:0;" href="http://saxn.sina.com.cn/dsp/click?t=MjAxOC0wMy0xMiAxOTo0NjoyNC4zNTIJMTIxLjU4LjIzNC4yMTAJCWM5Yjk2MjMxLWVhZjYtNDRmNS05Y2U5LTcwZDY4ZDE4YzAxYgkzMjIyODA5CTU4MjU5ODg5NDFfUElOUEFJLUNQQwkzMTA0MDg1CTEyMzE1NwkwLjAwMjA1MDU0NTUJMQl0cnVlCVBEUFMwMDAwMDAwNTg2MzgJMzQ3MjY5NQlQQwlpbWFnZQktCTB8cWpOdHJqUkRXaEdRSDN6Z1FqQ25MfG51bGx8bnVsbHxianwzMjIyODA5fDZvaVQ4UkhJTndFMGk0eFhOc0dYOXB8MAludWxsCTEJLQktCS0JMAkJUENfSU1BR0UJLQlub3JtYWx8dXZmbXJ0LW5vY21ycAktCXVzZXJfdGFnOjIwNjM0OjAuMHx1c2VyX2FnZTo2MDQ6MC4xNTY1OHx1c2VyX2dlbmRlcjo1MDI6MC4zODkyMXx2X3pvbmU6Nzc3MjUwOjAuMHxjcm93ZHM6fF9jcm93ZHM6CTQJMTMxMDAwCTUwMDAwCS0=&amp;userid=121.58.234.210&amp;auth=f7518e85d3fc9031&amp;p=TDivwpRsNGSph3TAhymkumr1I4JhSsy4itWveA%3D%3D&amp;url=http%3A%2F%2Fsax.sina.com.cn%2Fclick%3Ftype%3D2%26t%3DNGMzOGFmYzItOTQ2Yy0zNDY0LWE5ODctNzRjMDg3MjlhNGJhCTE3CVBEUFMwMDAwMDAwNTg2MzgJMzQ3MjY5NQkxCVJUQgktCQk%253D%26id%3D17%26url%3Dhttp%253A%252F%252Fymrtzkg.com%252Fyumeiren5%252Fpc%26sina_sign%3Dd67d29bef2864268&amp;sign=2fc7f056c4e0cebd" target="_blank" data-link="http://saxn.sina.com.cn/dsp/click?t=MjAxOC0wMy0xMiAxOTo0NjoyNC4zNTIJMTIxLjU4LjIzNC4yMTAJCWM5Yjk2MjMxLWVhZjYtNDRmNS05Y2U5LTcwZDY4ZDE4YzAxYgkzMjIyODA5CTU4MjU5ODg5NDFfUElOUEFJLUNQQwkzMTA0MDg1CTEyMzE1NwkwLjAwMjA1MDU0NTUJMQl0cnVlCVBEUFMwMDAwMDAwNTg2MzgJMzQ3MjY5NQlQQwlpbWFnZQktCTB8cWpOdHJqUkRXaEdRSDN6Z1FqQ25MfG51bGx8bnVsbHxianwzMjIyODA5fDZvaVQ4UkhJTndFMGk0eFhOc0dYOXB8MAludWxsCTEJLQktCS0JMAkJUENfSU1BR0UJLQlub3JtYWx8dXZmbXJ0LW5vY21ycAktCXVzZXJfdGFnOjIwNjM0OjAuMHx1c2VyX2FnZTo2MDQ6MC4xNTY1OHx1c2VyX2dlbmRlcjo1MDI6MC4zODkyMXx2X3pvbmU6Nzc3MjUwOjAuMHxjcm93ZHM6fF9jcm93ZHM6CTQJMTMxMDAwCTUwMDAwCS0=&amp;userid=121.58.234.210&amp;auth=f7518e85d3fc9031&amp;p=TDivwpRsNGSph3TAhymkumr1I4JhSsy4itWveA%3D%3D&amp;url=http%3A%2F%2Fsax.sina.com.cn%2Fclick%3Ftype%3D2%26t%3DNGMzOGFmYzItOTQ2Yy0zNDY0LWE5ODctNzRjMDg3MjlhNGJhCTE3CVBEUFMwMDAwMDAwNTg2MzgJMzQ3MjY5NQkxCVJUQgktCQk%253D%26id%3D17%26url%3Dhttp%253A%252F%252Fymrtzkg.com%252Fyumeiren5%252Fpc%26sina_sign%3Dd67d29bef2864268&amp;sign=2fc7f056c4e0cebd" onmousedown="return sinaadToolkit.url.fortp(this, event);"><img border="0" src="//s3.pfp.sina.net/ea/ad/15/1/0df2a9f7fbb79ef1fb3b6ca9f2dd2441.jpg" style="width:120px;height:270px;border:0" alt="广告"></a></div><div class="sinaads-float-close" style="width: 120px; height: 18px; position: absolute; left: 0px; top: 270px; background-image: url(http://d2.sina.com.cn/litong/zhitou/sinaads/60x18_1_close.gif); background-color: rgb(235, 235, 235); cursor: pointer; background-position: 100% 50%; background-repeat: no-repeat no-repeat;"></div></div><iframe frameborder="0" style="display: none;"></iframe><div id="bdshare_s" style="display: block;"><iframe id="bdsIfr" style="position:absolute;display:none;z-index:9999;" frameborder="0"></iframe><div id="bdshare_l" style="display: none;"><div id="bdshare_l_c"><h6>分享到</h6><ul><li><a href="#" class="bds_mshare mshare">一键分享</a></li><li><a href="#" class="bds_qzone qqkj">QQ空间</a></li><li><a href="#" class="bds_tsina xlwb">新浪微博</a></li><li><a href="#" class="bds_bdysc bdysc">百度云收藏</a></li><li><a href="#" class="bds_renren rrw">人人网</a></li><li><a href="#" class="bds_tqq txwb">腾讯微博</a></li><li><a href="#" class="bds_bdxc bdxc">百度相册</a></li><li><a href="#" class="bds_kaixin001 kxw">开心网</a></li><li><a href="#" class="bds_tqf txpy">腾讯朋友</a></li><li><a href="#" class="bds_tieba bdtb">百度贴吧</a></li><li><a href="#" class="bds_douban db">豆瓣网</a></li><li><a href="#" class="bds_tsohu shwb">搜狐微博</a></li><li><a href="#" class="bds_bdhome bdhome">百度新首页</a></li><li><a href="#" class="bds_sqq sqq">QQ好友</a></li><li><a href="#" class="bds_thx thx">和讯微博</a></li><li><a href="#" class="bds_more">更多...</a></li></ul><p><a href="#" class="goWebsite">百度分享</a></p></div></div></div><iframe id="IO_WEBPUSH4_LOCALCONN_IFRAME" src="https://current.sina.com.cn/theone/IO.WebPush4.localConn.html" style="display: none;"></iframe><div class="real-time-window" style="display: none; position: fixed; left: 0px; bottom: -49px;"></div><div class="channelHead">
+    <div class="cheadTopbar" id="blk_cheadTopbar_01" data-sudaclick="blk_cheadTopbar_01">
+        <div class="cheadTopbarLink">
+            <a href="http://www.sina.com.cn/">新浪首页</a>&nbsp;&gt;&gt;&nbsp;
+            <script charset="utf-8" src="http://finance.sina.com.cn/js/topnav/tgdata.js"></script><a href="http://finance.sina.com.cn/event/2018lh/" target="_blank" suda-uatrack="key=indextop_url&amp;value=click">2018全国两会：决胜之机</a>&nbsp; <a href="http://finance.sina.com.cn/zt_d/bmdzg/" target="_blank" suda-uatrack="key=indextop_url&amp;value=click">把脉大资管：通道死非标亡？</a>&nbsp; <a href="http://finance.sina.com.cn/zt_d/dfsmcyy/" target="_blank" suda-uatrack="key=indextop_url&amp;value=click">私募梦想创业营报名</a>&nbsp; 
+			
+        </div>
+        <div class="cheadSearch">
+            <form name="cheadSearchForm" method="get" action="http://search.sina.com.cn/" target="_blank" style="position: relative;">
+                <input type="text" name="q" class="cheadSeaKey" value="请输入关键词" onfocus="if(this.value=='请输入关键词'){this.value=''}" autocomplete="off">
+                <select name="c" id="slt_01" class="cheadSeaType" style="visibility: hidden;">
+                    <option value="news" selected="">新闻</option>
+                    <option value="img">图片</option>
+                    <option value="blog">博客</option>
+                    <option value="video">视频</option>
+                </select>
+                <input type="hidden" name="from" value="channel">
+                <input type="submit" class="cheadSeaSmt" value="搜索">
+            <div class="selectView" style="width: 65px; position: absolute; left: 156px; top: 0px;"><div class="ds_cont"><div class="ds_title">新闻</div><div class="ds_button"></div></div><div class="ds_list" style="display: none;"><div class="dsl_cont"><p>新闻</p><p>图片</p><p>博客</p><p>视频</p></div></div></div></form>
+            <!-- 搜索js start -->
+            <script src="http://ent.sina.com.cn/470/2014/0328/search_suggest.js"></script>
+            <script type="text/javascript">
+                (function(){
+                    // 表单
+                    var frm = document.cheadSearchForm;
+                    // 下拉选择
+                    var select = frm.c;
+                    // 输入框
+                    var input = frm.q;
+                    // 提交按钮
+                    var submit = function(){
+                        frm.submit();
+                    };
+                    // 是否新闻
+                    var isNews = function(){
+                        return select.value==='news';
+                    };
+                    // 提交
+                    new searchsUggest({
+                        input : input,
+                        maxLen : 10,
+                        placeholderStr:'请输入关键词',
+                        showHotList:isNews,
+                        showSuggestList:isNews,
+                        onSelect: submit
+                    });
+                })();
+            </script>
+            <!-- 搜索js end -->
+        </div>
+        <div class="cheadUserInfo" id="userLogin">
+        <div class="top-nav" style=""><div class="tn-title-login-custom" node-type="userInfoContainer"><div class="tn-user-custom"><a href="javascript:void(0);" class="tn-tab-custom tn-tab-custom-login" node-type="login"><i><span>登录</span></i></a><span class="tn-user-greet" style="display:none;" node-type="greet">欢迎你，</span><a node-type="nickCon" style="display:none;" href="http://weibo.com" target="_blank" class="tn-tab-custom"><i><span node-type="nick">&nbsp;</span><em class="tn-new-custom" node-type="totalMsg"></em><em class="tn-arrow tn-arrow-custom"></em></i></a><div class="tn-topmenulist-custom" node-type="infoList" style="display:none;"><ul class="tn-text-list"><li><a href="http://weibo.com/messages?topnav=1&amp;wvr=4" target="_blank"><em node-type="pm"></em>私信</a></li><li><a href="http://weibo.com/comment/inbox?topnav=1&amp;wvr=4&amp;f=1" target="_blank"><em node-type="comment"></em>评论</a></li><li><a href="http://weibo.com/at/weibo?topnav=1&amp;wvr=4" target="_blank"><em node-type="atme"></em>@我</a></li><li><a href="javascript:void(0);" node-type="logout" class="tn-user-custom-logout">退出</a></li></ul></div></div><div node-type="css_check" class="userpanel-checkload" style="display:none;"></div></div></div></div>
+    </div>
+</div>
+<div class="ilandHeader wrap clearfix">
+    <h1 class="logo" data-sudaclick="fin_usstock_logo"><a href="http://finance.sina.com.cn/stock/newstock/"></a></h1>
+    <div class="ilandSearch" data-sudaclick="ilandSearch">
+        <form onsubmit="return submitCheckSuggest(this);" style="margin: 0px; padding: 0px 0px 0px 5px; position: relative; z-index: 99; float: left;" method="get" target="_blank" action="http://biz.finance.sina.com.cn/suggest/lookup_n.php">
+            <select id="ilandSlt" style="visibility: hidden;">
+                <option id="ilandSlt_hq">行情</option>
+                <option id="ilandSlt_news">新闻</option>
+            </select>
+            <input type="hidden" value="" name="country">
+            <input type="hidden" value="keyword" name="t">
+            <input type="hidden" value="news" name="c">
+            <input type="hidden" value="1_6|1_7" name="col">
+            <input type="hidden" name="k">
+            <input type="hidden" value="utf-8" name="ie">
+            <input type="text" name="q" id="suggestInputSearch" class="sc_input" autocomplete="off" style="color:#999;">
+            <input type="submit" id="ilandSearchBtn" value="">
+        <div class="selectView" style="width: 70px; position: absolute; left: 5px; top: 0px;"><div class="ds_cont"><div class="ds_title">行情</div><div class="ds_button"></div></div><div class="ds_list" style="display: none;"><div class="dsl_cont"><p>行情</p><p>新闻</p></div></div></div></form>
+    </div>
+    <div class="out-link">
+        <a href="http://finance.sina.com.cn" target="_blank">财经首页</a>
+        &nbsp;
+        |
+        &nbsp;
+        <a href="http://sina.com.cn" target="_blank">新浪首页</a>
+        &nbsp;
+        |
+        &nbsp;
+        <a href="http://news.sina.com.cn/guide/" target="_blank">新浪导航</a>
+    </div>
+</div>
+<script type="text/javascript">
+    var searchType1 = new DivSelect('slt_01');
+    var searchType1 = new DivSelect('ilandSlt');
+</script>
+<div class="head-nav wrap js-feed-tab">
+	    <a href="javascript:;" data-feed-urltag="XGGD" class="curr">新股滚动新闻</a>
+    <a href="javascript:;" data-feed-urltag="ZZDT">最新动态</a>
+    <a href="javascript:;" data-feed-urltag="XGPL">新股评论</a>
+    <a href="javascript:;" data-feed-urltag="IPO">IPO中介</a>
+    <a href="javascript:;" data-feed-urltag="RE">PE动态</a>
+    <a href="http://finance.sina.com.cn/stock/thirdmarket/" target="_blank">新三板</a>
+    
+</div>
+<div class="main-contain clearfix wrap">
+    <div class="mc-left">
+        <div class="feed-wrap" id="relatedNewsWrap">
+            <div class="feed-title">
+                <h3></h3>
+            </div>
+            <div class="feed-c">
+                <div id="feedCard" suda-uatrack="key=new_content_relate_click_times20150707&amp;value=1" data-sudaclick="suda_723_xgyd" class="feed-card-ipad"><div class="feed-card-tab" id="feedCardTab"><div class="feed-card-tabs feed-card-clearfix" data-sudaclick="feed_nav"><div class="feed-card-tab-firstTab" style="width:60px;"><span id="feedCardTabFirstTab" style="width:40px;" class="feed-card-tab-tabi feed-card-tab-tabi-selected" data-lid="1789">最新</span></div><div class="feed-card-tab-tabContainer" style="width: 598px;"><div id="feedCardConfigurableTabs" class="feed-card-tab-ctabs feed-card-clearfix"></div><div id="feedCardMoreTabsTrigger" class="feed-card-tab-more-trigger" style="display: none;">更多<i></i></div></div><div class="feed-card-tab-lastTab" suda-uatrack="key=index_feed&amp;value=float_setting" style="display: none;"><span class="feed-card-tab-tabi" id="feedCardSettingsTrigger">兴趣设置</span></div></div><div class="feed-card-tab-more" id="feedCardMoreTabs" style="display: none; right: 0px;"></div><div class="feed-card-tab-edit" id="feedCardTabEditor" data-sudaclick="posi-setting" style="display:none;"><div class="feed-card-tab-select" id="feedCardEditStep1"><div class="feed-card-tab-edit-col"><div class="feed-card-tab-edit-tit feed-card-clearfix"><h5>我的栏目：</h5><p>请点击选择您所感兴趣的栏目</p></div><div class="feed-card-tab-edit-cols feed-card-clearfix" id="feedCardEditCols"></div></div></div><div class="feed-card-tab-reorder" style="display:none;" id="feedCardEditStep2"><div class="feed-card-tab-edit-tit feed-card-clearfix"><p>您可以拖拽调整显示顺序</p></div><div class="feed-card-tab-reorder-c feed-card-clearfix" id="feedCardEditSelectW"></div></div><div class="feed-card-tab-edit-step feed-card-clearfix"><p id="feedCardEditTip"></p><div class="feed-card-tab-edit-steps"><a href="javascript:;" class="prev" id="feedCardEditPrev" style="display:none;" suda-uatrack="key=index_feed&amp;value=setting_btn_prev">上一步</a><a href="javascript:;" class="next" id="feedCardEditNext" suda-uatrack="key=index_feed&amp;value=setting_btn_next">下一步</a><a href="javascript:;" class="done" id="feedCardEditDone" style="display:none;" suda-uatrack="key=index_feed&amp;value=setting_btn_save">完成</a></div></div></div><div class="feed-card-tab-toast" id="feedCardTabToast" style="display:none;"><div id="feedCardTabToastC"></div><a href="javascript:;" id="feedCardTabToastClose">Close</a><span></span></div><div class="feed-card-tab-labels2" id="feedCardLabels" style="display:none;"><a href="javascript;" class="feed-card-tab-labels-toggle" id="feedCardLabelsToggle">更多</a><div class="feed-card-tab-labels-c feed-card-clearfix" id="feedCardLabelsC"></div></div></div><div class="feed-card-tag-tip" id="feedCardTagTip" suda-uatrack="key=index_feed&amp;value=tag_tip" style="display:none;"><div>喜欢“<em id="feedCardTagTipLabel"></em>”？<a href="javascript;" id="feedCardTagTipAdd">马上订阅</a>欣赏最精彩内容~</div><a href="javascript;" id="feedCardTagTipClose">关闭</a></div><div class="feed-card-select-tag" id="feedCardSelectTag" style="display:none;"><div class="feed-card-select-tag-will">欲添加的的标签：<span id="feedCardSelectWillTag"></span></div><div class="feed-card-select-tag-close"><a href="javascript;" id="feedCardSelectTagClose">关闭</a></div><div class="feed-card-select-tags feed-card-clearfix" id="feedCardSelectTagLabels"></div><div class="feed-card-select-tag-tip feed-card-clearfix"><p id="feedCardSelectTagTip"></p><a href="javascript;" id="feedCardSelectTagDone" class="disable">完成</a></div></div><div class="feed-card-notification2" id="feedCardNotification2" style="display:none;"></div><div class="feed-card-notification" id="feedCardNotification" style="display:none;" suda-uatrack="key=index_feed&amp;value=notification"></div><div class="feed-card-content feed-card-ipad" id="feedCardContent" data-sudaclick="feed_list"><div class="feed-card-tab" id="feedCardTab"><div class="feed-card-tabs feed-card-clearfix" data-sudaclick="feed_nav"><div class="feed-card-tab-firstTab" style="width:60px;"><span id="feedCardTabFirstTab" style="width:40px;" class="feed-card-tab-tabi feed-card-tab-tabi-selected" data-lid="1789">最新</span></div><div class="feed-card-tab-tabContainer"><div id="feedCardConfigurableTabs" class="feed-card-tab-ctabs feed-card-clearfix"></div><div id="feedCardMoreTabsTrigger" class="feed-card-tab-more-trigger" style="display:none;">更多<i></i></div></div><div class="feed-card-tab-lastTab" suda-uatrack="key=index_feed&amp;value=float_setting"><span class="feed-card-tab-tabi" id="feedCardSettingsTrigger">兴趣设置</span></div></div><div class="feed-card-tab-more" id="feedCardMoreTabs" style="display:none;"></div><div class="feed-card-tab-edit" id="feedCardTabEditor" data-sudaclick="posi-setting" style="display:none;"></div><div class="feed-card-tab-toast" id="feedCardTabToast" style="display:none;"><div id="feedCardTabToastC"></div><a href="javascript:;" id="feedCardTabToastClose">Close</a><span></span></div><div class="feed-card-tab-labels2" id="feedCardLabels" style="display:none;"><a href="javascript;" class="feed-card-tab-labels-toggle" id="feedCardLabelsToggle">更多</a><div class="feed-card-tab-labels-c feed-card-clearfix" id="feedCardLabelsC"></div></div></div><div class="feed-card-tag-tip" id="feedCardTagTip" suda-uatrack="key=index_feed&amp;value=tag_tip" style="display:none;"><div>喜欢“<em id="feedCardTagTipLabel"></em>”？<a href="javascript;" id="feedCardTagTipAdd">马上订阅</a>欣赏最精彩内容~</div><a href="javascript;" id="feedCardTagTipClose">关闭</a></div><div class="feed-card-select-tag" id="feedCardSelectTag" style="display:none;"><div class="feed-card-select-tag-will">欲添加的的标签：<span id="feedCardSelectWillTag"></span></div><div class="feed-card-select-tag-close"><a href="javascript;" id="feedCardSelectTagClose">关闭</a></div><div class="feed-card-select-tags feed-card-clearfix" id="feedCardSelectTagLabels"></div><div class="feed-card-select-tag-tip feed-card-clearfix"><p id="feedCardSelectTagTip"></p><a href="javascript;" id="feedCardSelectTagDone" class="disable">完成</a></div></div><div class="feed-card-notification2" id="feedCardNotification2" style="display:none;"></div><div class="feed-card-notification" id="feedCardNotification" style="display:none;" suda-uatrack="key=index_feed&amp;value=notification"></div><div class="feed-card-content" id="feedCardContent" data-sudaclick="feed_list"></div><div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:0:0" class="feed-icon-top1"><a href="http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7887130.shtml" target="_blank">宁德时代去年净利接近40亿 多家上市公司称持股</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7887130.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:0:0" target="_blank">新浪财经讯 3月12日消息，宁德时代今日晚间更新招股说明书申报稿，公司2017年实现营业收入199.97亿元，同比增长逾34%；实现净利润39.72亿元，同比增长31.4%。</a><a href="http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7887130.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:0:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天18:45</div><div class="feed-card-tags"></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu7887130','0', 0, 'undefined', 'http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7887130.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:0:0" target="_blank">评论</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'宁德时代去年净利接近40亿 多家上市公司称持股',url:'http://doc.sina.cn/?id=comos:fyscsmu7887130'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu7887130_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu7887130"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu7887130_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu7887130'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:1:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7215752.shtml" target="_blank">“三类股东”未清理 文灿压铸试探“新规”</a></h2><div class="feed-card-c feed-card-c1 feed-card-clearfix" id="videoPlayerC-1520842586"><div class="feed-card-img" style="width:130px; height:87px;"><a href="http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7215752.shtml" suda-uatrack="key=index_feed&amp;value=news_click:1789:1:0" target="_blank"><img src="http://s.img.mix.sina.com.cn/auto/resize?img=http://n.sinaimg.cn/front/w1276h720/20180312/wonz-fyscsmu7215829.jpg&amp;size=130_87" alt="“三类股东”未清理 文灿压铸试探“新规”" style="width:130px; height:87px;"></a></div><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7215752.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:1:0" target="_blank">“三类股东”未清理，文灿压铸试探“新规” 来源：IPO日报 独角兽富士康过会之事狠狠刷了一波朋友圈。不过，非独角兽的企业才是拟IPO的生力军。</a><a href="http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7215752.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:1:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天16:16</div><div class="feed-card-tags"></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu7215752','0', 1, 'undefined', 'http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7215752.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:1:0" target="_blank">评论</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'“三类股东”未清理 文灿压铸试探“新规”',url:'http://doc.sina.cn/?id=comos:fyscsmu7215752',pic:'http://s.img.mix.sina.com.cn/auto/resize?img=http://n.sinaimg.cn/front/w1276h720/20180312/wonz-fyscsmu7215829.jpg&amp;size=130_87'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu7215752_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu7215752"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu7215752_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu7215752'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:2:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/2018-03-12/doc-ifyscsmu7212539.shtml" target="_blank">排队1295天终上会 亚普股份“隐身”三年半今安好？</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/2018-03-12/doc-ifyscsmu7212539.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:2:0" target="_blank">排队1295天终上会！亚普股份“隐身”三年半今安好？ 沈玉洁 来自微信公号： IPO日报 3月13日，亚普汽车股份有限公司（以下简称“亚普股份”）即将上会。</a><a href="http://finance.sina.com.cn/stock/newstock/2018-03-12/doc-ifyscsmu7212539.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:2:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天16:15</div><div class="feed-card-tags"></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu7212539','0', 2, '2', 'http://finance.sina.com.cn/stock/newstock/2018-03-12/doc-ifyscsmu7212539.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:2:0" target="_blank">评论(2)</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'排队1295天终上会 亚普股份“隐身”三年半今安好？',url:'http://doc.sina.cn/?id=comos:fyscsmu7212539'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu7212539_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu7212539"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu7212539_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu7212539'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:3:0" class="undefined"><a href="http://finance.sina.com.cn/roll/2018-03-12/doc-ifysewht9868768.shtml" target="_blank">长城证券IPO：2017年营收近30亿 控股股东为华能资本</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/roll/2018-03-12/doc-ifysewht9868768.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:3:0" target="_blank">中国网财经3月12日讯 长城证券股份有限公司（以下简称“长城证券”）近期在证监会网站披露招股说明书，公司拟在深交所发行不超过5亿股...</a><a href="http://finance.sina.com.cn/roll/2018-03-12/doc-ifysewht9868768.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:3:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天15:47</div><div class="feed-card-tags"><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/控股股东" target="_blank">控股股东</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/长城证券" target="_blank">长城证券</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/IPO" target="_blank">IPO</a></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fysewht9868768','0', 3, '0', 'http://finance.sina.com.cn/roll/2018-03-12/doc-ifysewht9868768.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:3:0" target="_blank">评论(4)</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'长城证券IPO：2017年营收近30亿 控股股东为华能资本',url:'http://doc.sina.cn/?id=comos:fysewht9868768'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fysewht9868768_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fysewht9868768"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fysewht9868768_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fysewht9868768'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:4:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6372122.shtml" target="_blank">文灿股份IPO：或为“三类股东”破冰第一股？</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6372122.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:4:0" target="_blank">据证监会官网消息，亚普汽车部件股份有限公司、南京证券股份有限公司、广东文灿压铸股份有限公司三家企业将于2018年3月13日上会。</a><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6372122.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:4:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天13:25</div><div class="feed-card-tags"></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu6372122','0', 4, 'undefined', 'http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6372122.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:4:0" target="_blank">评论</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'文灿股份IPO：或为“三类股东”破冰第一股？',url:'http://doc.sina.cn/?id=comos:fyscsmu6372122'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu6372122_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu6372122"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu6372122_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu6372122'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:5:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6346701.shtml" target="_blank">南京证券IPO：投行业务呈明显下滑态势</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6346701.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:5:0" target="_blank">据证监会官网消息，亚普汽车部件股份有限公司、南京证券股份有限公司、广东文灿压铸股份有限公司三家企业将于2018年3月13日上会。</a><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6346701.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:5:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天13:20</div><div class="feed-card-tags"></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu6346701','0', 5, '1', 'http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6346701.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:5:0" target="_blank">评论(1)</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'南京证券IPO：投行业务呈明显下滑态势',url:'http://doc.sina.cn/?id=comos:fyscsmu6346701'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu6346701_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu6346701"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu6346701_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu6346701'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:6:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6316154.shtml" target="_blank">亚普汽车13日上会:六年前申报 背离新能源发展趋势</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6316154.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:6:0" target="_blank">据证监会官网消息，亚普汽车部件股份有限公司、南京证券股份有限公司、广东文灿压铸股份有限公司三家企业将于2018年3月13日上会。</a><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6316154.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:6:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天13:15</div><div class="feed-card-tags"></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu6316154','0', 6, 'undefined', 'http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6316154.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:6:0" target="_blank">评论</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'亚普汽车13日上会:六年前申报 背离新能源发展趋势',url:'http://doc.sina.cn/?id=comos:fyscsmu6316154'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu6316154_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu6316154"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu6316154_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu6316154'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:7:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5643787.shtml" target="_blank">南京证券三冲A股 业绩下滑存隐忧</a></h2><div class="feed-card-c feed-card-c1 feed-card-clearfix" id="videoPlayerC-1520823318"><div class="feed-card-img" style="width:130px; height:87px;"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5643787.shtml" suda-uatrack="key=index_feed&amp;value=news_click:1789:7:0" target="_blank"><img src="http://s.img.mix.sina.com.cn/auto/resize?img=http://n.sinaimg.cn/front/w404h603/20180312/fX2L-fyscsmu5643853.png&amp;size=130_87" alt="南京证券三冲A股 业绩下滑存隐忧" style="width:130px; height:87px;"></a></div><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5643787.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:7:0" target="_blank">来源：华夏时报本报记者 石省昌 北京报道 这是南京证券第三次冲击A股。 2月26日，南京证券再次报送最新招股说明书。此次南京证券的排队状态已变更为预先披露更新...</a><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5643787.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:7:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天10:55</div><div class="feed-card-tags"><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/南京证券" target="_blank">南京证券</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/业务" target="_blank">业务</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/券商" target="_blank">券商</a></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu5643787','0', 7, 'undefined', 'http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5643787.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:7:0" target="_blank">评论</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'南京证券三冲A股 业绩下滑存隐忧',url:'http://doc.sina.cn/?id=comos:fyscsmu5643787',pic:'http://s.img.mix.sina.com.cn/auto/resize?img=http://n.sinaimg.cn/front/w404h603/20180312/fX2L-fyscsmu5643853.png&amp;size=130_87'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu5643787_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu5643787"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu5643787_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu5643787'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:8:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5594285.shtml" target="_blank">南京证券周二上会 2018年哪些券商有望上市</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5594285.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:8:0" target="_blank">又是一次揭开谜底的时刻，3月13日IPO发审会上，出现了南京证券的身影。 南京证券IPO若获核准，将成为第32家A股上市券商。最新信息显示...</a><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5594285.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:8:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天10:45</div><div class="feed-card-tags"><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/南京证券" target="_blank">南京证券</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/证券" target="_blank">证券</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/业务" target="_blank">业务</a></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu5594285','0', 8, 'undefined', 'http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5594285.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:8:0" target="_blank">评论</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'南京证券周二上会 2018年哪些券商有望上市',url:'http://doc.sina.cn/?id=comos:fyscsmu5594285'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu5594285_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu5594285"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu5594285_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu5594285'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:9:0" class="undefined"><a href="http://finance.sina.com.cn/7x24/2018-03-12/doc-ifysetmw4915770.shtml" target="_blank">机构:富士康有望3月底挂牌 或成市值最大的A股科技股</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/7x24/2018-03-12/doc-ifysetmw4915770.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:9:0" target="_blank"> 富士康A股IPO闪电过会，国金证券称，不排除富士康可能在3月15号前后就能拿到批文，3月底能挂牌上市；华泰证券称，公司登陆A股有望成为市值最大的科技股。</a><a href="http://finance.sina.com.cn/7x24/2018-03-12/doc-ifysetmw4915770.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:9:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天10:17</div><div class="feed-card-tags"><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/富士康" target="_blank">富士康</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/科技股" target="_blank">科技股</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/市值" target="_blank">市值</a></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fysetmw4915770','0', 9, '20', 'http://finance.sina.com.cn/7x24/2018-03-12/doc-ifysetmw4915770.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:9:0" target="_blank">评论(89)</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'机构:富士康有望3月底挂牌 或成市值最大的A股科技股',url:'http://doc.sina.cn/?id=comos:fysetmw4915770'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fysetmw4915770_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fysetmw4915770"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fysetmw4915770_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fysetmw4915770'); return false;"><span>╱╲</span> 收起</a></div></div><div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:10:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7887130.shtml" target="_blank">宁德时代去年净利接近40亿 多家上市公司称持股</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7887130.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:10:0" target="_blank">新浪财经讯 3月12日消息，宁德时代今日晚间更新招股说明书申报稿，公司2017年实现营业收入199.97亿元，同比增长逾34%；实现净利润39.72亿元，同比增长31.4%。</a><a href="http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7887130.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:10:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天18:45</div><div class="feed-card-tags"></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu7887130','0', 0, 'undefined', 'http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7887130.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:0:0" target="_blank">评论</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'宁德时代去年净利接近40亿 多家上市公司称持股',url:'http://doc.sina.cn/?id=comos:fyscsmu7887130'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu7887130_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu7887130"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu7887130_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu7887130'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:11:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7215752.shtml" target="_blank">“三类股东”未清理 文灿压铸试探“新规”</a></h2><div class="feed-card-c feed-card-c1 feed-card-clearfix" id="videoPlayerC-1520842586"><div class="feed-card-img" style="width:130px; height:87px;"><a href="http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7215752.shtml" suda-uatrack="key=index_feed&amp;value=news_click:1789:11:0" target="_blank"><img src="http://s.img.mix.sina.com.cn/auto/resize?img=http://n.sinaimg.cn/front/w1276h720/20180312/wonz-fyscsmu7215829.jpg&amp;size=130_87" alt="“三类股东”未清理 文灿压铸试探“新规”" style="width:130px; height:87px;"></a></div><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7215752.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:11:0" target="_blank">“三类股东”未清理，文灿压铸试探“新规” 来源：IPO日报 独角兽富士康过会之事狠狠刷了一波朋友圈。不过，非独角兽的企业才是拟IPO的生力军。</a><a href="http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7215752.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:11:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天16:16</div><div class="feed-card-tags"></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu7215752','0', 1, 'undefined', 'http://finance.sina.com.cn/stock/newstock/zrzdt/2018-03-12/doc-ifyscsmu7215752.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:1:0" target="_blank">评论</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'“三类股东”未清理 文灿压铸试探“新规”',url:'http://doc.sina.cn/?id=comos:fyscsmu7215752',pic:'http://s.img.mix.sina.com.cn/auto/resize?img=http://n.sinaimg.cn/front/w1276h720/20180312/wonz-fyscsmu7215829.jpg&amp;size=130_87'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu7215752_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu7215752"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu7215752_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu7215752'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:12:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/2018-03-12/doc-ifyscsmu7212539.shtml" target="_blank">排队1295天终上会 亚普股份“隐身”三年半今安好？</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/2018-03-12/doc-ifyscsmu7212539.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:12:0" target="_blank">排队1295天终上会！亚普股份“隐身”三年半今安好？ 沈玉洁 来自微信公号： IPO日报 3月13日，亚普汽车股份有限公司（以下简称“亚普股份”）即将上会。</a><a href="http://finance.sina.com.cn/stock/newstock/2018-03-12/doc-ifyscsmu7212539.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:12:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天16:15</div><div class="feed-card-tags"></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu7212539','0', 2, '2', 'http://finance.sina.com.cn/stock/newstock/2018-03-12/doc-ifyscsmu7212539.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:2:0" target="_blank">评论(2)</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'排队1295天终上会 亚普股份“隐身”三年半今安好？',url:'http://doc.sina.cn/?id=comos:fyscsmu7212539'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu7212539_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu7212539"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu7212539_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu7212539'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:13:0" class="undefined"><a href="http://finance.sina.com.cn/roll/2018-03-12/doc-ifysewht9868768.shtml" target="_blank">长城证券IPO：2017年营收近30亿 控股股东为华能资本</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/roll/2018-03-12/doc-ifysewht9868768.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:13:0" target="_blank">中国网财经3月12日讯 长城证券股份有限公司（以下简称“长城证券”）近期在证监会网站披露招股说明书，公司拟在深交所发行不超过5亿股...</a><a href="http://finance.sina.com.cn/roll/2018-03-12/doc-ifysewht9868768.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:13:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天15:47</div><div class="feed-card-tags"><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/控股股东" target="_blank">控股股东</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/长城证券" target="_blank">长城证券</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/IPO" target="_blank">IPO</a></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fysewht9868768','0', 3, '0', 'http://finance.sina.com.cn/roll/2018-03-12/doc-ifysewht9868768.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:3:0" target="_blank">评论(4)</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'长城证券IPO：2017年营收近30亿 控股股东为华能资本',url:'http://doc.sina.cn/?id=comos:fysewht9868768'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fysewht9868768_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fysewht9868768"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fysewht9868768_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fysewht9868768'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:14:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6372122.shtml" target="_blank">文灿股份IPO：或为“三类股东”破冰第一股？</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6372122.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:14:0" target="_blank">据证监会官网消息，亚普汽车部件股份有限公司、南京证券股份有限公司、广东文灿压铸股份有限公司三家企业将于2018年3月13日上会。</a><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6372122.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:14:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天13:25</div><div class="feed-card-tags"></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu6372122','0', 4, 'undefined', 'http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6372122.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:4:0" target="_blank">评论</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'文灿股份IPO：或为“三类股东”破冰第一股？',url:'http://doc.sina.cn/?id=comos:fyscsmu6372122'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu6372122_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu6372122"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu6372122_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu6372122'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:15:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6346701.shtml" target="_blank">南京证券IPO：投行业务呈明显下滑态势</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6346701.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:15:0" target="_blank">据证监会官网消息，亚普汽车部件股份有限公司、南京证券股份有限公司、广东文灿压铸股份有限公司三家企业将于2018年3月13日上会。</a><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6346701.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:15:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天13:20</div><div class="feed-card-tags"></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu6346701','0', 5, '1', 'http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6346701.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:5:0" target="_blank">评论(1)</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'南京证券IPO：投行业务呈明显下滑态势',url:'http://doc.sina.cn/?id=comos:fyscsmu6346701'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu6346701_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu6346701"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu6346701_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu6346701'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:16:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6316154.shtml" target="_blank">亚普汽车13日上会:六年前申报 背离新能源发展趋势</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6316154.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:16:0" target="_blank">据证监会官网消息，亚普汽车部件股份有限公司、南京证券股份有限公司、广东文灿压铸股份有限公司三家企业将于2018年3月13日上会。</a><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6316154.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:16:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天13:15</div><div class="feed-card-tags"></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu6316154','0', 6, 'undefined', 'http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu6316154.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:6:0" target="_blank">评论</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'亚普汽车13日上会:六年前申报 背离新能源发展趋势',url:'http://doc.sina.cn/?id=comos:fyscsmu6316154'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu6316154_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu6316154"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu6316154_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu6316154'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:17:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5643787.shtml" target="_blank">南京证券三冲A股 业绩下滑存隐忧</a></h2><div class="feed-card-c feed-card-c1 feed-card-clearfix" id="videoPlayerC-1520823318"><div class="feed-card-img" style="width:130px; height:87px;"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5643787.shtml" suda-uatrack="key=index_feed&amp;value=news_click:1789:17:0" target="_blank"><img src="http://s.img.mix.sina.com.cn/auto/resize?img=http://n.sinaimg.cn/front/w404h603/20180312/fX2L-fyscsmu5643853.png&amp;size=130_87" alt="南京证券三冲A股 业绩下滑存隐忧" style="width:130px; height:87px;"></a></div><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5643787.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:17:0" target="_blank">来源：华夏时报本报记者 石省昌 北京报道 这是南京证券第三次冲击A股。 2月26日，南京证券再次报送最新招股说明书。此次南京证券的排队状态已变更为预先披露更新...</a><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5643787.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:17:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天10:55</div><div class="feed-card-tags"><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/南京证券" target="_blank">南京证券</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/业务" target="_blank">业务</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/券商" target="_blank">券商</a></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu5643787','0', 7, 'undefined', 'http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5643787.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:7:0" target="_blank">评论</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'南京证券三冲A股 业绩下滑存隐忧',url:'http://doc.sina.cn/?id=comos:fyscsmu5643787',pic:'http://s.img.mix.sina.com.cn/auto/resize?img=http://n.sinaimg.cn/front/w404h603/20180312/fX2L-fyscsmu5643853.png&amp;size=130_87'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu5643787_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu5643787"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu5643787_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu5643787'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:18:0" class="undefined"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5594285.shtml" target="_blank">南京证券周二上会 2018年哪些券商有望上市</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5594285.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:18:0" target="_blank">又是一次揭开谜底的时刻，3月13日IPO发审会上，出现了南京证券的身影。 南京证券IPO若获核准，将成为第32家A股上市券商。最新信息显示...</a><a href="http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5594285.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:18:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天10:45</div><div class="feed-card-tags"><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/南京证券" target="_blank">南京证券</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/证券" target="_blank">证券</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/业务" target="_blank">业务</a></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fyscsmu5594285','0', 8, 'undefined', 'http://finance.sina.com.cn/stock/newstock/zxdt/2018-03-12/doc-ifyscsmu5594285.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:8:0" target="_blank">评论</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'南京证券周二上会 2018年哪些券商有望上市',url:'http://doc.sina.cn/?id=comos:fyscsmu5594285'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fyscsmu5594285_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fyscsmu5594285"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fyscsmu5594285_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fyscsmu5594285'); return false;"><span>╱╲</span> 收起</a></div></div> <div class="feed-card-item"><h2 suda-uatrack="key=index_feed&amp;value=news_click:1789:19:0" class="undefined"><a href="http://finance.sina.com.cn/7x24/2018-03-12/doc-ifysetmw4915770.shtml" target="_blank">机构:富士康有望3月底挂牌 或成市值最大的A股科技股</a></h2><div class="feed-card-c"><div class="feed-card-txt"><a href="http://finance.sina.com.cn/7x24/2018-03-12/doc-ifysetmw4915770.shtml" class="feed-card-txt-summary" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:19:0" target="_blank"> 富士康A股IPO闪电过会，国金证券称，不排除富士康可能在3月15号前后就能拿到批文，3月底能挂牌上市；华泰证券称，公司登陆A股有望成为市值最大的科技股。</a><a href="http://finance.sina.com.cn/7x24/2018-03-12/doc-ifysetmw4915770.shtml" class="feed-card-txt-detail" rel="nofollow" suda-uatrack="key=index_feed&amp;value=news_click:1789:19:0" target="_blank">[详细]</a></div></div><div class="feed-card-a feed-card-clearfix"><div class="feed-card-time">今天10:17</div><div class="feed-card-tags"><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/富士康" target="_blank">富士康</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/科技股" target="_blank">科技股</a><a suda-uatrack="key=index_feed&amp;value=news_label_click" href="http://tags.news.sina.com.cn/市值" target="_blank">市值</a></div><div class="feed-card-actions"><a href="javascript:;" onclick="__SinaFeedCard__.showComment(this, 'cj','comos-fysetmw4915770','0', 9, '20', 'http://finance.sina.com.cn/7x24/2018-03-12/doc-ifysetmw4915770.shtml'); return false;" class="feed-card-comment" suda-uatrack="key=index_feed&amp;value=news_comment_click:9:0" target="_blank">评论(89)</a><span class="feed-card-spliter">|</span><span id="bdshare" class="bdshare_t bds_tools get-codes-bdshare feed-card-share" data="text:'机构:富士康有望3月底挂牌 或成市值最大的A股科技股',url:'http://doc.sina.cn/?id=comos:fysetmw4915770'"><span class="bds_more">分享</span></span></div></div><div style="display:none; margin-top:10px;" class="feed-card-comment-w" data-id="feedCardComment_comos-fysetmw4915770_w"><div class="feed-card-comment-top" data-id="feedCardCommentTop_comos-fysetmw4915770"><em>◆</em><span>◆</span></div><div class="feed-card-comment-c" data-id="feedCardComment_comos-fysetmw4915770_c"></div><a href="javascript:;" class="feed-card-comment-close" onclick="__SinaFeedCard__.hideComment(this, 'comos-fysetmw4915770'); return false;"><span>╱╲</span> 收起</a></div></div></div></div><div class="feed-card-loading feed-card-loading0" style="display: none;"><img src="http://i1.sinaimg.cn/home/main/ipadwww14/04/loading.gif" width="30" height="30"></div><div class="feed-card-page" style="display: none;"></div></div></div>
+            </div>
+        </div>
+
+    </div>
+    <div class="mc-right">
+        <!--券商文章排行 开始
+
+       券商文章排行 结束-->
+         <!--  开始 -->
+        <div class="index_right_box">
+            <div class="title clearfix" style="position:relative;zoom:1;">
+                <span class="title_icon"></span>
+                新股申购日历
+<!-- 开户 -->
+                <a class="self_seleect_ad" style=" position: absolute; right: 56px;top: 20px;" href="https://hd.gf.com.cn/gfstore/dspThree/dsTwo.html?_gfsrc=sina_kh_00007_pc&amp;channel=sina00007" target="_blank" suda-uatrack="key=gangfa_pc&amp;value=new_stock"><img src="http://n.sinaimg.cn/finance/2017/guangfazhengquan/images/pic_07.jpg" style="display:block; width:96px; height:16px;"></a>
+                <span class="more">
+                    <a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vRPD_NewStockIssue/page/1.phtml" target="_blank">更多&gt;&gt;</a>
+                </span>
+            </div>
+            <div class="content m-grid" id="">
+                <iframe width="300" scrolling="no" height="260" frameborder="0" style="overflow:hidden;" src="http://vip.stock.finance.sina.com.cn/corp/view/iframe/vAK_NewStockIssueFrame_2015.php?num=7"></iframe>
+
+            </div>
+        </div>
+        <!--  结束 -->
+        <!--  开始 -->
+        <div class="index_right_box">
+            <div class="title clearfix">
+                <span class="title_icon"></span>
+                上市公告牌
+                <span class="more">
+                </span>
+            </div>
+            <div class="content m-grid" id="">
+                <iframe width="300" scrolling="no" height="280" frameborder="0" style="overflow:hidden;" src="http://finance.sina.com.cn/iframe/stock/newstock/module/market_bulletin_2015.html"></iframe>
+            </div>
+        </div>
+        <!--  结束 -->
+        <!--  开始 -->
+        <div class="index_right_box">
+            <div class="title clearfix">
+                <span class="title_icon"></span>
+                预披露一览
+                <span class="more">
+                    <a href="http://money.finance.sina.com.cn/corp/go.php/vRPD_NewStockMeeting/dpc/1.phtml" target="_blank">更多&gt;&gt;</a>
+                </span>
+            </div>
+            <div class="content m-grid" id="">
+                <iframe width="300" scrolling="no" height="430" frameborder="0" style="overflow:hidden;" src="http://finance.sina.com.cn/iframe/stock/newstock/module/newstock_meeting_predict_2015.html"></iframe>
+            </div>
+        </div>
+        <!--  结束 -->
+        <!--  开始 -->
+        <div class="index_right_box">
+            <div class="title clearfix">
+                <span class="title_icon"></span>
+                新股上会一览
+                <span class="more">
+                    <a href="http://money.finance.sina.com.cn/corp/go.php/vRPD_NewStockMeeting/dpc/1.phtml?page=1&amp;cngem=&amp;orderBy=meetingdate&amp;orderType=desc" target="_blank">更多&gt;&gt;</a>
+                </span>
+            </div>
+            <div class="content m-grid" id="">
+                <iframe width="300" scrolling="no" height="340" frameborder="0" style="overflow:hidden;" src="http://finance.sina.com.cn/iframe/stock/newstock/module/newstock_meeting_2015.html"></iframe>
+            </div>
+        </div>
+        <!--  结束 -->
+        <!--  开始 -->
+        <div class="index_right_box">
+            <div class="title clearfix">
+                <span class="title_icon"></span>
+                增发再融资日历
+                <span class="more">
+                    <a href="http://money.finance.sina.com.cn/corp/go.php/vRPD_IncreaseStockIssue/page/1.phtml" target="_blank">更多&gt;&gt;</a>
+                </span>
+            </div>
+            <div class="content m-grid" id="">
+                <iframe width="300" scrolling="no" height="340" frameborder="0" style="overflow:hidden;" src="http://vip.stock.finance.sina.com.cn/corp/view/vAK_IncreaseStockIssueFrame_2015.php?num=10"></iframe>
+            </div>
+        </div>
+        <!--  结束 -->
+    </div>
+</div>
+<div style="border-top: 1px solid #e1e1e1;margin-top: 50px;">
+    <div class="page_foot wrap">
+        客户服务热线：4006900000　　欢迎批评指正<br><a target="_blank" href="http://tech.sina.com.cn/focus/sinahelp.shtml">常见问题解答</a>  <a target="_blank" href="http://net.china.cn/chinese/index.htm">互联网违法和不良信息举报</a>　<a target="_blank" href="http://finance.sina.com.cn/guest.html">新浪财经意见反馈留言板</a><br><br><a href="http://corp.sina.com.cn/chn/">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/">About Sina</a> | <a href="http://emarketing.sina.com.cn/">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> | <a href="http://english.sina.com">SINA English</a> | <a href="https://login.sina.com.cn/signup/signup.php">通行证注册</a> | <a href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a><br><br>Copyright © 1996-2018 SINA Corporation, All Rights Reserved<br><br>新浪公司　<a target="_blank" href="http://home.sina.com.cn/intro/copyright.shtml">版权所有</a><br><br><span style="color:#aaa;">新浪财经免费提供股票、基金、债券、外汇等行情数据以及其他资料均来自相关合作方，仅作为用户获取信息之目的，并不构成投资建议。<br>新浪财经以及其合作机构不为本页面提供信息的错误、残缺、延迟或因依靠此信息所采取的任何行动负责。市场有风险，投资需谨慎。</span>
+    </div>
+</div>
+		<!--对联广告 Start-->
+<ins class="sinaads sinaads-done" data-ad-pdps="PDPS000000058638" data-ad-type="float" data-ad-status="done" style="position: absolute; top: -99999px;"></ins>
+<script>(sinaads = window.sinaads || []).push({
+   params : {
+      sinaads_float_show_pos: 800,
+       sinaads_float_top : 46
+   }
+});
+</script>
+<!--对联广告 End-->
+<!-- body code begin -->
+<script type="text/javascript">
+(function(){
+    if(window.top !== window.self || window._thereIsNoRealTimeMessage){return};
+    var script = document.createElement('script');
+    script.setAttribute('charset', 'gb2312');
+    script.src = '//news.sina.com.cn/js/694/2012/0830/realtime.js?ver=1.5.1';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+
+<!-- SSO_UPDATECOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c<d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g>5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d<c){o={retcode:6203}}else{if(d-h+m>c){o={retcode:6110}}else{if(d-c>p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
+<!-- SSO_UPDATECOOKIE_END -->
+
+<!-- start dmp -->
+<script type="text/javascript">
+(function(d, s, id) {
+var n = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+s = d.createElement(s);
+s.id = id;
+s.setAttribute('charset', 'utf-8');
+s.src = '//d' + Math.floor(0 + Math.random() * (8 - 0 + 1)) + '.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.js';
+n.parentNode.insertBefore(s, n);
+})(document, 'script', 'sinaads-ck-script');
+</script>
+<!-- end dmp -->
+
+<!-- body code end -->
+
+<script type="text/javascript" src="http://n.sinaimg.cn/075e21ca/20151028/suggestServer_cs_utf8.js"></script>
+<script charset="utf-8" src="http://i.sso.sina.com.cn/js/ssologin.js" type="text/javascript"></script>
+<script src="http://n.sinaimg.cn/075e21ca/20150921/fin_FN.js"></script>
+<script type="text/javascript" src="http://i.sso.sina.com.cn/js/outlogin_layer.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://tech.sina.com.cn/js/717/20140827/index2014/top.js"></script>
+<script src="http://news.sina.com.cn/js/87/20140926/comment.3.min.js"></script>
+<!-- bdshare -->
+<!-- Add bdshare -->
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=483253" src="http://bdimg.share.baidu.com/static/js/bds_s_v2.js?cdnversion=422460"></script>
+
+<script type="text/javascript">
+    (function(exports){
+        exports.bds_config = {
+            // appkey
+            "snsKey": {
+                'tsina': 'false',
+                'tqq': '',
+                't163': '',
+                'tsohu': ''
+            },
+            //  id
+            'wbUid':'1268642527',
+            'searchPic':false,
+            'review':'off'
+        };
+        document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+    })(window);
+</script>
+<style type="text/css">
+    #bdshare{float:none !important;font-size:13px !important;padding-bottom:0 !important;}
+    #bdshare span.bds_more{display:inline !important;padding:0 !important;float:none !important;font-family:"Microsoft YaHei","微软雅黑" !important;background-image:none !important;}
+    #bdshare span.bds_more:hover{color:#1976e8;}
+</style>
+<!-- bdshare end -->
+<script type="text/javascript">
+    var FEED_CARD_INFO = {
+        containerID: 'feedCard', // 容器ID
+        containerWidth: 660, // 默认宽度是660
+        loadType: 1, // 加载类型 1表示点击更多加载, 2表示自动加载
+        autoLoadDistance: function(){
+            //return $('#wb_rec').height() + 740;
+            return $(document).height() - $('#relatedNewsWrap').height() - $('#relatedNewsWrap').offset().top + 100;
+        }, // 如果是自动加载, 有时候feed流并没有放在最下面, 所以scrollEnd的时候要判断这个距离
+        clickLoadText: '点击加载更多',
+        summaryKey: 'summary', // 摘要使用字段
+
+        supportNotification: false,// 最左边的列表是否添加提醒功能
+        notificationTemplate: '有{n}条消息，点击查看',// 提醒的格式
+        notificationTimeout: 1000 * 30,// 提醒的事件间隔
+
+        pageSize: 10, // 每次加载条数
+        stepSize: 3, // 加载三次之后出分页
+
+        moreTagTemplate: '点击查看更多关于“{n}”的文章',
+
+        /*
+         * 评论相关配置
+         */
+        // 1. 是否支持当前页展开评论
+        enablePageComment: true,
+        // 2. 评论组件编码,默认是gbk
+        pageCommentEncoding: 'utf-8',
+        // 3. 是否显示盖楼,默认0,还可以为1
+        pageCommentShowReply: 0,
+        // 4. 评论显示字数
+        pageCommentMaxWordCount: 110,
+        // 5. 最热评论默认显示条数
+        pageCommentHotPageNum: 3,
+        // 6. 最新评论默认显示条数
+        pageCommentFirstPageNum: 10,
+
+        supportTabEdit: false, //是否支持兴趣设置
+
+        toFilterNews: [], // 过滤从feed系统走，此处可置空
+
+        isTabFixed: true,
+        fixedTop: 0,
+
+        supportKeywords: false, // 是否支持热词定制
+        hotKeywords: [],
+        keywords: [], // 默认选定的关键词
+        maxKeywordsCount: 15,
+        maxKeywordLength: 14,
+        searchQuery: '',
+        tagURL: 'http://tags.news.sina.com.cn',
+
+        hotNewsCount: 200, //评论超过该数字显示热icon
+
+        yPosition: 'auto', // 如果不固定，则给一个auto，自动计算
+        tabHeight: 50,
+
+        noDataText: '没有相关新闻',
+        //staticfeedturnoff
+        
+        pageid:205,
+        // 最左边固定tab
+        firstTab: {
+            txt: '最新',
+            lid: 1789,
+            css_width: 40
+        },
+        // 栏目分类配置
+        columnInfos: {
+        },
+        requireLogin: function(){
+        },
+        isLogin: function(){
+        }
+    };
+</script>
+<script type="text/javascript" src="http://n.sinaimg.cn/075e21ca/20150921/feed_relateNews_20180826.js"></script>
+<script>
+    var FeedTag={ 
+        XGGD:{
+            txt: '最新',
+            lid: 1789,
+            css_width: 40
+                
+        },
+        ZZDT:{
+            txt: '最新',
+            lid: 1790,
+            css_width: 50
+        },
+        XGPL:{
+            txt: '最新',
+            lid: 1791,
+            css_width: 50
+        },
+        IPO:{
+            txt: '最新',
+            lid: 1793,
+            css_width: 50
+        },
+        RE:{
+            txt: '最新',
+            lid: 1792,
+            css_width: 50
+        }
+    };
+
+   
+    //feed 标签切换
+    (function(){
+        $('.js-feed-tab a').on('click',function(){
+            $('.js-feed-tab a').removeClass('curr');
+            $(this).addClass('curr');
+            var tag = $(this).attr('data-feed-urltag');
+            //FEED_CARD_INFO.pageid=FeedTagid[tag];
+            FEED_CARD_INFO["firstTab"]=FeedTag[tag]?FeedTag[tag]:FeedTag['GN'];
+            FN.getScript('http://n.sinaimg.cn/075e21ca/20150921/feed_relateNews_20180826.js');
+        });
+        //初始化feed流
+        FEED_CARD_INFO.pageid='205';
+        FN.getScript('http://n.sinaimg.cn/075e21ca/20150921/feed_relateNews_20180826.js');
+    })(FeedTag);  
+</script>
+<script>
+    if(typeof loginSuccessCallbacks === 'undefined'){window.loginSuccessCallbacks = [];}
+    if(typeof logoutSuccessCallbacks === 'undefined'){window.logoutSuccessCallbacks = [];}
+    if(typeof logined === 'undefined'){window.logined = false;}
+    var userPanel = window.SINA_USER_PANEL;
+    userPanel.STK.Ready(function(){
+        userPanel.set('outloginLayer', {						//配置登录浮层相关内容
+            ready : function(){								//登录浮层渲染成功后执行的方法，必选
+                var loginLayer = window.SINA_OUTLOGIN_LAYER;	//获取登录浮层
+                loginLayer.set('sso', {
+                    entry : 'finance'
+                }).set('extra',{
+                    css : 'http://i.sso.sina.com.cn/css/outlogin/v1/outlogin_skin_finance.css'
+                }).register("layer_hide", function(){
+                    loginLayer.set("plugin",{
+                        position:"custom"
+                    })
+                }).register('login_success', function(){
+                    window.logined = true;
+                    for(var i=0; i<loginSuccessCallbacks.length; i++) {
+                        loginSuccessCallbacks[i]();
+                    }
+                }).register('logout_success', function(){
+                    window.logined = false;
+                    for(var i=0; i<loginSuccessCallbacks.length; i++) {
+                        logoutSuccessCallbacks[i]();
+                    }
+                }).init();
+
+            },
+            triggerEvent: 'hover'								//触发显示登录浮层的事件，可选择hover或click
+        }).set('container',{									//设置用户面板的父节点，不设置则为body
+            node: document.getElementById("userLogin")
+        }).init();												// 初始化用户面板，必选
+    })
+</script>
+<script src="http://n.sinaimg.cn/finance/quanshang_2015/common.js" charset="gb2312"></script>
+
+<script>   
+___sinacMNT___.cmnt.config.encoding = 'utf-8';
+</script><div node-type="box" class="outlogin_layerbox_bylx outlogin_layerbox_bylx_anrrow ui-outlogin-shake" style="position: absolute; top: -1000px; left: -1000px;"><div class="cur_move" node-type="handle"><a node-type="close" href="javascript:;" onclick="return false;" class="layerbox_close">×</a></div><div node-type="root" class="layerbox_left"><div class="titletips" node-type="titletips">新浪微博、博客、邮箱帐号，请直接登录</div><p node-type="tip" class="login_error_tips"></p><ul class="loginformlist"><li class="ndrelativewrap" node-type="prelogin_area" style="display:none;"><span class="pre_name" node-type="prelogin_name">加载中...</span><a href="javascript:;" class="chg_ac" node-type="prelogin_changeAccount">换个账号登录</a></li><li class="ndrelativewrap" node-type="loginname_box"><input node-type="loginname" name="loginname" class="styles" type="text" placeholder="微博/博客/邮箱/手机号" tabindex="1" maxlength="128" autocomplete="off" autocapitalize="off"><a node-type="clear" href="javascript:;" class="close_loginname" style="display:none;">×</a></li><li node-type="password_box"><input node-type="password" name="password" class="styles" type="password" placeholder="请输入密码" tabindex="2" maxlength="24"></li><li class="loginform_yzm" node-type="door_box" style="display: none;"><div node-type="checkWrapper" style="position:absolute;z-index:1;width:260px;height:40px;display:none;"></div><input node-type="door" name="door" class="styles" type="text" tabindex="3" maxlength="6" autocomplete="off" autocapitalize="off"><img node-type="door_img" class="yzm" alt="看不清？换一换"><a node-type="door_change" href="javascript:;" class="reload-code" title="看不清？换一换"></a><a node-type="door_voice" href="javascript:;" class="disability_voice" style="display:none;"></a></li><li node-type="vsn_box" style="display: none;"><input node-type="vsn" name="vsn" class="styles" type="text" tabindex="4" maxlength="6" placeholder="请输入微盾动态码" autocomplete="off" autocapitalize="off"></li><li class="sub_wrap_r"><span class="btn_wrap"><a href="javascript:;" tabindex="5" node-type="submit" class="login_btn" suda-uatrack="key=index_new_menu&amp;value=logon_login">登录</a><div node-type="submitWrapper" style="position:absolute;z-index:1;width:64px;height:29px;display:none;"></div><label node-type="remember_label" class="rmb_login"><input name="remember" node-type="remember" type="checkbox" class="auto_checkbox" checked="checked" autocomplete="off"><span>下次自动登录</span></label></span></li><li class="sub_wrap_r"><span class="log_option"><a class="forget_Pwd" node-type="forgot_password" href="https://login.sina.com.cn/getpass.html" target="_blank" suda-uatrack="key=index_new_menu&amp;value=logon_forgot">忘记密码</a><a class="register_lnk" node-type="register_button" target="_blank" href="https://login.sina.com.cn/signup/signup.php?entry=finance" suda-uatrack="key=index_new_menu&amp;value=logon_register">立即注册</a></span></li><li class="sub_wrap_r"><span class="qq_spanoption" style=""><a class="qq_login_h" node-type="qq_login" href="https://passport.weibo.com/othersitebind/authorize?site=qq&amp;wl=1&amp;entry=finance&amp;callback=http%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fnewstock%2F" suda-uatrack="key=index_new_menu&amp;value=logon_qq"><span class="qq_login_logo"></span><span class="qq_login">使用QQ登录</span></a></span></li></ul></div><div class="otwo_d_wrap" node-type="layerleft_qrcode"><div class="otwo_tl">用微博客户端扫描安全登录</div><div class="td_wrap"><a href="javascript:;"><img node-type="qrcode_img" src="https://i.sso.sina.com.cn/images/login/td.png"></a></div></div><div class="otwo_d_wrap" node-type="layerleft_preloginThumb" style="display:none;"><div class="otwo_tl"></div><div class="td_wrap"><span class="thumb"><img node-type="prelogin_img" src="https://i.sso.sina.com.cn/images/login/pre_loading.gif"></span></div></div><div node-type="qrcode_help" class="otwo_hlp" style="display:none;"><div class="hlp_cnt"><div class="ot_wrap"><img src="https://i.sso.sina.com.cn/images/login/weibo_how_ot.png"></div></div><span class="ot_arrow"></span></div><div node-type="qrcode_tip" class="swip_check" style="display:none;"><span class="swip_check_cls" node-type="qrcode_tip_close"></span><span class="swip_check_icon"></span><p class="swip_check_txt">扫描成功！<br>点击手机上的确认即可登录</p><span class="swip_check_btmarow"></span></div><div node-type="css_check" class="outlogin_checkload" style="display:none;"></div></div><iframe id="sinaads-ck-iframe" src="//d7.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.html" style="display: none;"></iframe></body></html>
